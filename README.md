@@ -1,2 +1,2 @@
 # VEC
-Volley is Compromise! Is an app made for people who take volley seriously.
+Volley is Compromise! An app made for people who take volley seriously.
